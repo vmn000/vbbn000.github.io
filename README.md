@@ -1,0 +1,11 @@
+<!DOCTYPE hmlt>
+<hmlt lang+"ru">
+<head>
+  <meta charset="UTF-8">
+  <title>Vvvv</title>
+</head>
+<body>
+  <h1>Bbbb!</h1>
+  <p> brbrbr. </p>
+</body>
+</hmlt>
